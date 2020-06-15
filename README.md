@@ -1,2 +1,1 @@
-# googlealerts-rssfeedreader
-googlealerts-rssfeedreader
+# marketsignals-googlealerts-rssfeedreader
