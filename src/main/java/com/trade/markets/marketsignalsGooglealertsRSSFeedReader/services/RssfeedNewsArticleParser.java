@@ -71,6 +71,8 @@ public class RssfeedNewsArticleParser {
 					}
 
 					String feedURLFull = "https://www.google.com/alerts/feeds/" + feedURLnumber1 + "/" + feedURLnumber2;
+					
+					System.out.println("Processing the feeds from:"+feedURLFull);
 
 					URL feedSource = null;
 					SyndFeed feed = null;
